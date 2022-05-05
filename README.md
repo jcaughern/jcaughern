@@ -1,13 +1,11 @@
 ### 👋 Hi, I’m Jake Caughern!
 #### Full-Stack Software Engineer
+
 [![jake-caughern](https://img.shields.io/badge/jake--caughern-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jake-caughern/)
 [![GitHub](https://img.shields.io/badge/jcaughern-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/jcaughern)
 [![jake.caughern@gmail.com](https://shields.io/badge/jake.caughern-red.svg?logo=gmail&color=red&style=flat-square&logoColor=white)](mailto:jake.caughern@gmail.com)
 
 🏢 Looking for professional opportunities in the greater Tulsa, Oklahoma area (open to remote).
-
-![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcaughern&count_private=true)
-
 
 #### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -30,4 +28,6 @@
 ![CircleCI](https://img.shields.io/badge/Circle%20CI-%23161616.svg?style=flat-square&logo=circleci&logoColor=white)
 ![Nginx](https://img.shields.io/badge/NGINX-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
+
+ ![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcaughern&count_private=true)
 
