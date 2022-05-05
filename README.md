@@ -6,6 +6,8 @@
 
 🏢 Looking for professional opportunities in the greater Tulsa, Oklahoma area (open to remote).
 
+![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcaughern&count_private=true)
+
 
 #### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
