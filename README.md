@@ -29,6 +29,6 @@
 ![Nginx](https://img.shields.io/badge/NGINX-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-%23C21325?style=flat-square&logo=jest&logoColor=white)
 
-<!-- ![](https://github.com/jcaughern/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jcaughern/github-stats/blob/master/generated/languages.svg) -->
+![](https://github.com/jcaughern/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jcaughern/github-stats/blob/master/generated/languages.svg)
 
