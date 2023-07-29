@@ -1,13 +1,15 @@
 ### 👋 Hi, I’m Jake Caughern!
-#### Full-Stack Software Engineer
+#### Full-Stack Software Developer
 
 [![jake-caughern](https://img.shields.io/badge/jake--caughern-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jake-caughern/)
 [![GitHub](https://img.shields.io/badge/jcaughern-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/jcaughern)
 [![jake.caughern@gmail.com](https://shields.io/badge/jake.caughern-red.svg?logo=gmail&color=red&style=flat-square&logoColor=white)](mailto:jake.caughern@gmail.com)
 
-🏢 Looking for professional opportunities in the greater Tulsa, Oklahoma area (open to remote).
+🏢 Full-stack Software Developer.
 
 #### Languages and Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
