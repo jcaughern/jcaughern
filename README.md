@@ -3,7 +3,6 @@
 
 [![jake-caughern](https://img.shields.io/badge/jake--caughern-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jake-caughern/)
 [![GitHub](https://img.shields.io/badge/jcaughern-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/jcaughern)
-[![jake.caughern@gmail.com](https://shields.io/badge/jake.caughern-red.svg?logo=gmail&color=red&style=flat-square&logoColor=white)](mailto:jake.caughern@gmail.com)
 
 🏢 Full-stack Software Developer.
 
